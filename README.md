@@ -21,3 +21,29 @@ All scripts should:
        - A description of the script including the WHAT and WHY.
 
        - Any resources or references used in creating the script here as well.
+
+## Project Management Tools
+
+Make sure everyone has access and correct permissions to the tool you are using.
+
+Please use one of these tools listed below:
+
+* Jira
+
+* Trello
+
+* GitHub Projects
+
+Build out sections to help organize tasks. Try using labels such as:
+
+- “To Do”
+
+- “In Progress”
+
+- “Done” 
+
+- “Stretch Goals”
+ 
+Organize your PM Tool however you think is best for your team! 
+Grant the instructor access to your project management tool for review during daily stand-ups.
+
