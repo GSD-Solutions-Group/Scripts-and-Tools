@@ -28,12 +28,6 @@ All scripts should:
 
 Make sure everyone has access and correct permissions to the tool you are using.
 
-Please use one of these tools listed below:
-
-* Jira
-
-* Trello
-
 * GitHub Projects
 
 Build out sections to help organize tasks. Try using labels such as:
